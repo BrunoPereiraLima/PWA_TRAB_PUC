@@ -1,0 +1,12 @@
+.stripe-0 {
+    background-color: #F0F0F0;
+}
+
+.stripe-1 {
+    background-color: #C6C6C6;
+}
+
+#itemList {
+    border: 1px #A6A6A6 solid;
+    padding: 8px 2px 0px 1px;
+}

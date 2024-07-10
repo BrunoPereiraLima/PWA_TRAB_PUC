@@ -1,0 +1,16 @@
+{
+  "name": "app_planejamento_viagem",
+  "version": "1.0.0",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "guid": "^0.0.12"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
